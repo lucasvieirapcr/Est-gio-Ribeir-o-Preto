@@ -4,11 +4,10 @@ Respostas da segunda parte do processo seletivo
 
 
 
-1)RESPOSTA: dentro do loop, K é incrementado em 1 a cada iteração e o valor de K é adicionado a SOMA. Então quando K atingir 13, a condição K < INDICE será falsa e o loop terminará.Portanto, ao final do processamento, o valor da variável SOMA será 91.
+1- RESPOSTA: dentro do loop, K é incrementado em 1 a cada iteração e o valor de K é adicionado a SOMA. Então quando K atingir 13, a condição K < INDICE será falsa e o loop terminará.Portanto, ao final do processamento, o valor da variável SOMA será 91.
 
 
-2)
-
+2- RESPOSTA
 import java.util.Scanner;
 
 public class Fibonacci {
@@ -47,8 +46,8 @@ public class Fibonacci {
 }
 
 
+3- RESPOSTA
 
-4)
 a) 1, 3, 5, 7, _9_
 
 b) 2, 4, 8, 16, 32, 64, _128_
@@ -63,7 +62,7 @@ f) 2,10, 12, 16, 17, 18, 19, _20_
 
 
 
-4)RESPOSTA: Na primeira visita eu ligaria um dos interruptores e aguardaria alguns minutos, na segunda visita eu desligaria o interruptor que eu havia ligado anteriormente e consideraria essas possibilidades:
+4- RESPOSTA: Na primeira visita eu ligaria um dos interruptores e aguardaria alguns minutos, na segunda visita eu desligaria o interruptor que eu havia ligado anteriormente e consideraria essas possibilidades:
 
 Primeira: Se a lâmpada estiver acesa, você sabe que o interruptor que você ligou e desligou novamente controla essa lâmpada.
 Segunda: Se a lâmpada estiver desligada, e a outra estiver acesa, você sabe que o interruptor que você deixou ligado controla a lâmpada acesa.
@@ -72,7 +71,7 @@ Terceira: Se a lâmpada estiver desligada, e a outra também estiver desligada, 
 Dessa forma, você consegue determinar qual interruptor controla cada lâmpada usando apenas duas visitas à sala das lâmpadas.
  
 
-5)
+5- RESPOSTA
 import java.util.Scanner;
 
 public class Invertendo {
