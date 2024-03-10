@@ -8,7 +8,9 @@ Respostas da segunda parte do processo seletivo
 
 
 2)
+
 import java.util.Scanner;
+
 public class Fibonacci {
 
     public static boolean isFibonacci(int num) {
@@ -46,7 +48,7 @@ public class Fibonacci {
 
 
 
-3)
+4)
 a) 1, 3, 5, 7, _9_
 
 b) 2, 4, 8, 16, 32, 64, _128_
